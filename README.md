@@ -1,3 +1,5 @@
+# **` 🙎‍♂️ Dylan Ramirez` | `Full stack developer` | `Certified AWS Cloud practitioner`**
+
 # 💫 About Me:
 👯 I’m looking to collaborate on web development projects<br>🌱 I’m currently learning cloud infrastructure<br>💬 Ask me about React.js, Javascript, node.js and AWS
 
